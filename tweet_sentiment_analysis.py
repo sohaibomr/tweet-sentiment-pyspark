@@ -91,7 +91,7 @@ if __name__=="__main__":
     #training
     print("************************TRAINIG*******************************")
     model=NaiveBayes.train(train, 1.0)
-    print("*****************************TRAINING COMPLETE")
+    print("*****************************TRAINING COMPLETE************************************")
 #    
 #    #saving the model
     output_dir = '/home/sohaib/Documents/myNaiveBayesModel_Tweet3'
