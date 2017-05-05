@@ -13,18 +13,18 @@ I took about 20 min. max on my i5-2.3u, 4gb ram machine to train on 90% of the d
 <br>
 <b>Dependencies</b>
 <br>
-<l>
 <ul>
+<li>
 Apache Spark and pyspark
-</ul>
-<ul>
+</li>
+<li>
 Pandas
-</ul>
+</li>
 
-<ul>
+<li>
 Python 2.7
+</li>
 </ul>
-</l>
 <b>TODO</b>
 <br>
 One can further improve accuracy by Lemmatisation of dataset and using word2vec technique. On which i am still working on. And you can also try different classification models like Random Forest, SVM or Even try Deep Learning, CNN, RNN.
